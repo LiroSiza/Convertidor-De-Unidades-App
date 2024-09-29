@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Practica7_controles2</string>
+    <string name="seleccioname">Seleccioname</string>
+
+    <string name="opcion1">Longitud</string>
+    <string name="opcion2">Masa</string>
+    <string name="opcion3">Temperatura</string>
+
+    <string name="opcionF1">Metros</string>
+    <string name="opcionF2">Centímetros</string>
+    <string name="opcionF3">Milímetros</string>
+
+    <string name="masaOp1">Libras</string>
+    <string name="masaOp2">Kilogramos</string>
+    <string name="masaOp3">Gramos</string>
+
+    <string name="TempOp1">Celcius</string>
+    <string name="TempOp2">Kelvin</string>
+    <string name="TempOp3">Fahrenheit</string>
+
+    <string name="ingrese">Ingrese cantidad</string>
+    <string name="conv">CONVERTIDOR</string>
+    <string name="unidad">Unidad a convertir</string>
+    <string name="unidad2">Convertir a:</string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="inputPre">0.0</string>
+
+    <string name="author">Powered by César RT ©</string>
+
+</resources>
